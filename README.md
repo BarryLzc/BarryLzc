@@ -1,4 +1,4 @@
-<div style="text-align: center;">Hi, I'm ZhaoChengLi（Barry）👋</div>
+<div style="text-align: center;"><strong>Hi, I'm ZhaoChengLi（Barry）👋</strong></div>
 
 - 🔭  I’m a software engineer, and currently working at Joyy Inc（SHOPLINE）
 - 📖  Studied Bachelor of Computer Science in UNSW Sydney
