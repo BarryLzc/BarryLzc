@@ -1,4 +1,4 @@
-##                                                                                                                     Hi I'm ZhaoChengLi（Barry）👋
+## Hi, I'm ZhaoChengLi（Barry）👋
 
 
 - 🔭 I’m a software engineer, and currently working at Joyy Inc（SHOPLINE）
